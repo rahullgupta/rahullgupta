@@ -1,8 +1,4 @@
-### Hey there
-<img
-  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-  width="25px"
-/>
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
 <div style="margin: 10px 0px">
   <a href="https://www.linkedin.com/in/rahul-kumar-gupta-01/">
@@ -51,7 +47,7 @@
   </a>
 </div>
 
-<pre>
+<p>
   Hi, I'm Rahul Kumar Gupta, a 3rd year Computer Science Undergraduate at Chandigarh University. 
   
   I am interested in Web Development and Blockchain. 
@@ -62,7 +58,7 @@
   
   Skills: Python, C++, HTML/CSS/Javascript, React, MongoDB, NodeJs. 
   Interests: Open Source, Blockchain, Python, Web Development.
-</pre>
+</p>
 
 <div style="padding: 0px 35%">
   <img src="https://leetcard.jacoblin.cool/rahulgupta01?theme=nord" />
