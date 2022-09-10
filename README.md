@@ -1,11 +1,11 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   
 <a href="https://www.linkedin.com/in/rahul-kumar-gupta-01/"> 
-  <img align="left" alt="Rahul's LinkedIn" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
+  <img align="left" alt="Rahul's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.codechef.com/users/rahulgupta01">
-  <img height="25" img align="left" alt="Rahul's Codechef" src="https://img.shields.io/badge/dynamic/json?label=CodeChef"/>
+  <img height="25" img align="left" alt="Rahul's Codechef" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/>
 </a>
 
 <a href="https://codeforces.com/profile/rahulkumargupta"> 
@@ -16,8 +16,8 @@
 <img align="left" alt="Rahul's Gmail " src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitee" />
 </a>
 
-<br />
-
+<br>
+<br>
 Hi, I'm *Rahul Kumar Gupta*, A 3rd year Computer Science Undergraduate at Chandigarh University.
 
 I am interested in Web Development and Blockchain.
