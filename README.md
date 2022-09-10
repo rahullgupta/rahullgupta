@@ -54,9 +54,8 @@ Languages and Tools:
 📈 My GitHub Stats:-
 <br>
 <br>
-<br>
 <img align="left" src="https://streak-stats.demolab.com?user=rahullgupta&theme=onedark">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rahullgupta&show_icons=true&theme=onedark">
 <br>
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullgupta&layout=compact&theme=onedark">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullgupta&layout=compact&theme=onedark">
