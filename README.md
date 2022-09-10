@@ -19,35 +19,35 @@
 <div>
   <a href="https://www.linkedin.com/in/rahul-kumar-gupta-01/">
     <img
-      height="35"
+      height="30"
       alt="Rahul's LinkedIn"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
   <a href="https://www.codechef.com/users/rahulgupta01">
     <img
-      height="35"
+      height="30"
       alt="Rahul's Codechef"
       src="https://cp-logo.vercel.app/codechef/rahulgupta01?logo=true"
     />
   </a>
   <a href="https://codeforces.com/profile/rahulkumargupta">
     <img
-      height="35"
+      height="30"
       alt="Rahul's Codeforces"
       src="https://cp-logo.vercel.app/codeforces/rahulkumargupta?logo=true"
     />
   </a>
   <a href="https://leetcode.com/rahulgupta01/">
     <img
-      height="35"
+      height="30"
       alt="Rahul's LeetCode"
       src="https://cp-logo.vercel.app/leetcode/rahulgupta01?logo=true"
     />
   </a>
   <a href="mailto: rahulslg20@gmail.com">
     <img
-      height="35"
+      height="30"
       alt="Rahul's Gmail "
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitee"
     />
