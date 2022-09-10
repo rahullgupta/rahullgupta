@@ -93,7 +93,7 @@
 />
 <h3>📈 My GitHub Stats:-</h3>
 <div>
-  <img width="40px" src="https://streak-stats.demolab.com?user=rahullgupta&theme=onedark" />
-  <img width="40px" src="https://github-readme-stats.vercel.app/api?username=rahullgupta&show_icons=true&theme=onedark" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=rahullgupta&theme=onedark" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rahullgupta&show_icons=true&theme=onedark" />
 </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullgupta&layout=compact&theme=onedark" />
