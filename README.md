@@ -34,7 +34,7 @@ There is much to learn, many problems to brainstorm and code, many bugs to fix a
 Skills: Python, C++, HTML/CSS/Javascript, React, MongoDB, NodeJs.
 Interests: Open Source, Blockchain, Python, Web Development.
 
-<img align="center" style="margin: auto;" src="https://leetcard.jacoblin.cool/rahulgupta01?theme=nord" />
+<img align="center" style="margin: auto;" src="https://leetcard.jacoblin.cool/rahulgupta01?theme=nord">
 
 <br>
 
@@ -55,8 +55,8 @@ Languages and Tools:
 <br>
 <br>
 <br>
-<img align="left" src="https://streak-stats.demolab.com?user=rahullgupta&theme=onedark" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullgupta&layout=compact&theme=onedark" />
+<img align="left" src="https://streak-stats.demolab.com?user=rahullgupta&theme=onedark">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=rahullgupta&show_icons=true&theme=onedark">
 <br>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahullgupta&show_icons=true&theme=onedark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullgupta&layout=compact&theme=onedark">
