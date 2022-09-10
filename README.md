@@ -49,6 +49,8 @@ Languages and Tools:
 <br>
 📈 My GitHub Stats:-
 <br>
+<br>
+<br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rahullgupta&show_icons=true&theme=onedark" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullgupta&layout=compact&theme=onedark" />
@@ -60,6 +62,6 @@ Languages and Tools:
 <br>
 <br>
 
-<img align="left" src="https://leetcard.jacoblin.cool/rahulgupta01?theme=nord />
+<img align="left" src="https://leetcard.jacoblin.cool/rahulgupta01?theme=nord" />
 
 <img align="right" src="https://streak-stats.demolab.com?user=rahullgupta&theme=onedark" />
