@@ -47,7 +47,7 @@
     <img
       height="25"
       alt="Rahul's Gmail "
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitee"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
   </a>
 </div>
@@ -56,6 +56,13 @@
 
 <div>
   <img src="https://leetcard.jacoblin.cool/rahulgupta01?theme=nord" />
+</div>
+
+
+<h3>GeeksForGeeks Stats:</h3>
+
+<div>
+  <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=rahulslg20" />
 </div>
 
 <h3>Languages and Tools:</h3>
@@ -86,13 +93,7 @@
 />
 <h3>📈 My GitHub Stats:-</h3>
 <div>
-  <img
-    src="https://streak-stats.demolab.com?user=rahullgupta&theme=onedark"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rahullgupta&show_icons=true&theme=onedark"
-  />
+  <img width="40px" src="https://streak-stats.demolab.com?user=rahullgupta&theme=onedark" />
+  <img width="40px" src="https://github-readme-stats.vercel.app/api?username=rahullgupta&show_icons=true&theme=onedark" />
 </div>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullgupta&layout=compact&theme=onedark"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullgupta&layout=compact&theme=onedark" />
