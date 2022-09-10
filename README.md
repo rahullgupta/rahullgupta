@@ -1,5 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
+<img align="right" img height="40" src="https://visitor-badge.glitch.me/badge?page_id=rahullgupta.visitor-badge&left_text=My%20Page%20Visitors" />
+
 <p>
   I'm Rahul Kumar Gupta, a 3rd year Computer Science Undergraduate at Chandigarh University. 
   
@@ -93,7 +95,7 @@
 />
 <h3>📈 My GitHub Stats:-</h3>
 <div>
-  <img width="45%" src="https://streak-stats.demolab.com?user=rahullgupta&theme=onedark" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rahullgupta&show_icons=true&theme=onedark" />
+  <img width="47%" src="https://streak-stats.demolab.com?user=rahullgupta&theme=onedark" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=rahullgupta&show_icons=true&theme=onedark" />
 </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullgupta&layout=compact&theme=onedark" />
