@@ -1,18 +1,18 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   
-<a href="https://www.linkedin.com/in/rahul-kumar-gupta-01/"> LinkedIn
+<a href="https://www.linkedin.com/in/rahul-kumar-gupta-01/"> 
   <img align="left" alt="Rahul's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.codechef.com/users/rahulgupta01"> Codechef
-  <img height="25" img align="left" alt="Rahul's Codechef" src="https://cp-logo.vercel.app/codechef/rahulgupta01?logo=true"/>
+<a href="https://www.codechef.com/users/rahulgupta01">
+  <img height="25" img align="left" alt="Rahul's Codechef" src="https://img.shields.io/badge/dynamic/json?label=CodeChef"/>
 </a>
 
-<a href="https://codeforces.com/profile/rahulkumargupta"> Codeforces
+<a href="https://codeforces.com/profile/rahulkumargupta"> 
   <img height="25" img align="left" alt="Rahul's Codeforces" src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/rahulkumargupta&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400"/>
 </a>
 
-<a href = "mailto: rahulslg20@gmail.com"> Gmail
+<a href = "mailto: rahulslg20@gmail.com"> 
 <img align="left" alt="Rahul's Gmail " src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitee" />
 </a>
 
@@ -40,14 +40,6 @@ Interests: Open Source, Blockchain, Python, Web Development.
 <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
 <code><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
