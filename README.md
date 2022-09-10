@@ -14,8 +14,6 @@
   Interests: Open Source, Blockchain, Python, Web Development.
 </p>
 
-<br>
-
 <div>
   <a href="https://www.linkedin.com/in/rahul-kumar-gupta-01/">
     <img
