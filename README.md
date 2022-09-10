@@ -1,9 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
-<div style="margin: 10px 0px">
+<div>
   <a href="https://www.linkedin.com/in/rahul-kumar-gupta-01/">
     <img
-      style="margin: 0px 5%"
       height="25"
       alt="Rahul's LinkedIn"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -12,7 +11,6 @@
 
   <a href="https://www.codechef.com/users/rahulgupta01">
     <img
-      style="margin: 0px 5%"
       height="25"
       alt="Rahul's Codechef"
       src="https://cp-logo.vercel.app/codechef/rahulgupta01?logo=true"
@@ -21,7 +19,6 @@
 
   <a href="https://codeforces.com/profile/rahulkumargupta">
     <img
-      style="margin: 0px 5%"
       height="25"
       alt="Rahul's Codeforces"
       src="https://cp-logo.vercel.app/codeforces/rahulkumargupta?logo=true"
@@ -30,7 +27,6 @@
 
   <a href="https://leetcode.com/rahulgupta01/">
     <img
-      style="margin: 0px 5%"
       height="25"
       alt="Rahul's LeetCode"
       src="https://cp-logo.vercel.app/leetcode/rahulgupta01?logo=true"
@@ -39,7 +35,6 @@
 
   <a href="mailto: rahulslg20@gmail.com">
     <img
-      style="margin: 0px 5%"
       height="25"
       alt="Rahul's Gmail "
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitee"
@@ -60,7 +55,7 @@
   Interests: Open Source, Blockchain, Python, Web Development.
 </p>
 
-<div style="padding: 0px 35%">
+<div>
   <img src="https://leetcard.jacoblin.cool/rahulgupta01?theme=nord" />
 </div>
 
@@ -93,15 +88,12 @@
 <h3>📈 My GitHub Stats:-</h3>
 <div>
   <img
-    style="margin: 2px 10%"
     src="https://streak-stats.demolab.com?user=rahullgupta&theme=onedark"
   />
   <img
-    style="margin: 2px 5%"
     src="https://github-readme-stats.vercel.app/api?username=rahullgupta&show_icons=true&theme=onedark"
   />
 </div>
 <img
-  style="margin: 10px 38.5%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullgupta&layout=compact&theme=onedark"
 />
