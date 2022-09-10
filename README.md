@@ -42,6 +42,8 @@
   </a>
 </div>
 
+<br>
+
 <p>
   Hi, I'm Rahul Kumar Gupta, a 3rd year Computer Science Undergraduate at Chandigarh University. 
   
