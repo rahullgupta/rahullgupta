@@ -1,24 +1,29 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   
 <a href="https://www.linkedin.com/in/rahul-kumar-gupta-01/"> 
-  <img align="left" alt="Rahul's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img height="25" img align="left" alt="Rahul's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.codechef.com/users/rahulgupta01">
-  <img height="25" img align="left" alt="Rahul's Codechef" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/>
+  <img height="25" img align="left" alt="Rahul's Codechef" src="https://cp-logo.vercel.app/codechef/rahulgupta01?logo=true"/>
+</a>
+
+<a href="https://www.codechef.com/users/rahulgupta01">
+  <img height="25" img align="left" alt="Rahul's Codechef" src="https://cp-logo.vercel.app/leetcode/rahulgupta01?logo=true"/>
 </a>
 
 <a href="https://codeforces.com/profile/rahulkumargupta"> 
-  <img height="25" img align="left" alt="Rahul's Codeforces" src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/rahulkumargupta&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400"/>
+  <img height="25" img align="left" alt="Rahul's Codeforces" src="https://cp-logo.vercel.app/codeforces/rahulkumargupta?logo=true"/>
 </a>
 
 <a href = "mailto: rahulslg20@gmail.com"> 
-<img align="left" alt="Rahul's Gmail " src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitee" />
+<img height="25" img align="left" alt="Rahul's Gmail " src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitee" />
 </a>
 
 <br>
 <br>
-Hi, I'm *Rahul Kumar Gupta*, A 3rd year Computer Science Undergraduate at Chandigarh University.
+
+Hi, I'm Rahul Kumar Gupta, A 3rd year Computer Science Undergraduate at Chandigarh University.
 
 I am interested in Web Development and Blockchain.
 
@@ -29,7 +34,7 @@ There is much to learn, many problems to brainstorm and code, many bugs to fix a
 Skills: Python, C++, HTML/CSS/Javascript, React, MongoDB, NodeJs.
 Interests: Open Source, Blockchain, Python, Web Development.
 
-*Languages and Tools:*  
+Languages and Tools: 
 
 <code><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"></code>
@@ -43,9 +48,14 @@ Interests: Open Source, Blockchain, Python, Web Development.
 <br>
 <br>
 <br>
-*📈 My GitHub Stats:-*
+📈 My GitHub Stats:-
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rahullgupta&show_icons=true&theme=onedark" />
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullgupta&layout=compact&theme=onedark" />
 
-<img align="center" src="https://streak-stats.demolab.com?user=rahullgupta&theme=onedark" />
+<br>
+
+<img align="left" src="https://streak-stats.demolab.com?user=rahullgupta&theme=onedark" />
+
+<img align="right" src="https://leetcard.jacoblin.cool/rahulgupta01?theme=nord />
