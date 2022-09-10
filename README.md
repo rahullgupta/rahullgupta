@@ -57,7 +57,7 @@
 <h3>LeetCode Stats:</h3>
 
 <div>
-  <img width="40%" height="40%" src="https://leetcard.jacoblin.cool/rahulgupta01?theme=nord" />
+  <img width="40%" height="50%" src="https://leetcard.jacoblin.cool/rahulgupta01?theme=nord" />
 </div>
 
 
