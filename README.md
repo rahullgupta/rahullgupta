@@ -8,7 +8,6 @@
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
-  <p></p>
   <a href="https://www.codechef.com/users/rahulgupta01">
     <img
       height="25"
@@ -16,7 +15,6 @@
       src="https://cp-logo.vercel.app/codechef/rahulgupta01?logo=true"
     />
   </a>
-  <p></p>
   <a href="https://codeforces.com/profile/rahulkumargupta">
     <img
       height="25"
@@ -24,7 +22,6 @@
       src="https://cp-logo.vercel.app/codeforces/rahulkumargupta?logo=true"
     />
   </a>
-  <p></p>
   <a href="https://leetcode.com/rahulgupta01/">
     <img
       height="25"
@@ -32,7 +29,6 @@
       src="https://cp-logo.vercel.app/leetcode/rahulgupta01?logo=true"
     />
   </a>
-  <p></p>
   <a href="mailto: rahulslg20@gmail.com">
     <img
       height="25"
