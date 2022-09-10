@@ -57,8 +57,6 @@
   <img src="https://leetcard.jacoblin.cool/rahulgupta01?theme=nord" />
 </div>
 
-<br />
-
 <h3>Languages and Tools:</h3>
 
 <img
@@ -85,9 +83,7 @@
 <img
   src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
 />
-<br />
 <h3>📈 My GitHub Stats:-</h3>
-<br />
 <div>
   <img
     style="margin: 2px 10%"
