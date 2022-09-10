@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
 <p>
-  Hi, I'm Rahul Kumar Gupta, a 3rd year Computer Science Undergraduate at Chandigarh University. 
+  I'm Rahul Kumar Gupta, a 3rd year Computer Science Undergraduate at Chandigarh University. 
   
   I am interested in Web Development and Blockchain. 
   
@@ -10,6 +10,7 @@
   There is much to learn, many problems to brainstorm and code, many bugs to fix and many pull requests to make. Happy to connect, work and learn with all the amazing people in the world. 
   
   Skills: Python, C++, HTML/CSS/Javascript, React, MongoDB, NodeJs. 
+  
   Interests: Open Source, Blockchain, Python, Web Development.
 </p>
 
@@ -53,16 +54,11 @@
   </a>
 </div>
 
-<br>
-
-
 <h3>LeetCode Stats:</h3>
 
 <div>
   <img src="https://leetcard.jacoblin.cool/rahulgupta01?theme=nord" />
 </div>
-
-<br>
 
 <h3>Languages and Tools:</h3>
 
