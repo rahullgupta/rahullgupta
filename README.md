@@ -1,16 +1,59 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  
+<a href="https://www.linkedin.com/in/rahul-kumar-gupta-01/"> LinkedIn
+  <img align="left" alt="Rahul's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<!--
-**rahullgupta/rahullgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.codechef.com/users/rahulgupta01"> Codechef
+  <img height="25" img align="left" alt="Rahul's Codechef" src="https://cp-logo.vercel.app/codechef/rahulgupta01?logo=true"/>
+</a>
 
-Here are some ideas to get you started:
+<a href="https://codeforces.com/profile/rahulkumargupta"> Codeforces
+  <img height="25" img align="left" alt="Rahul's Codeforces" src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/rahulkumargupta&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href = "mailto: rahulslg20@gmail.com"> Gmail
+<img align="left" alt="Rahul's Gmail " src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitee" />
+</a>
+
+<br />
+
+Hi, I'm *Rahul Kumar Gupta*, A 3rd year Computer Science Undergraduate at Chandigarh University.
+
+I am interested in Web Development and Blockchain.
+
+I also like solving problems and so have an interest in competitive programming.
+
+There is much to learn, many problems to brainstorm and code, many bugs to fix and many pull requests to make. Happy to connect, work and learn with all the amazing people in the world.
+
+Skills: Python, C++, HTML/CSS/Javascript, React, MongoDB, NodeJs.
+Interests: Open Source, Blockchain, Python, Web Development.
+
+*Languages and Tools:*  
+
+<code><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"></code>
+<code><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
+<code><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+*📈 My GitHub Stats:-*
+<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rahullgupta&show_icons=true&theme=onedark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullgupta&layout=compact&theme=onedark" />
+
+<img align="center" src="https://streak-stats.demolab.com?user=rahullgupta&theme=onedark" />
