@@ -28,7 +28,7 @@
     <img
       height="25"
       src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"
-      onerror="this.src='https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white'"
+      onerror="this.onerror=null; this.src='https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white'"
       alt="Rahul's CodeChef"
     >
   <a href="https://codeforces.com/profile/rahulkumargupta" target="_blank">
@@ -62,11 +62,10 @@
   <img width="45%" src="https://leetcard.jacoblin.cool/rahulgupta01?theme=nord" />
 </div>
 
-
 <h3>GeeksForGeeks Stats:</h3>
 
 <div>
-  <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=rahulslg20" />
+  <img width="38%" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=rahulslg20" />
 </div>
 
 <h3>Languages and Tools:</h3>
@@ -95,9 +94,10 @@
 <img
   src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
 />
+
 <h3>📈 My GitHub Stats:-</h3>
 <div>
   <img width="47%" src="https://streak-stats.demolab.com?user=rahullgupta&theme=onedark" />
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=rahullgupta&show_icons=true&theme=onedark" />
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullgupta&layout=compact&theme=onedark" />
+<img width="40%" style="margin: 5px 30%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullgupta&layout=compact&theme=onedark" />
