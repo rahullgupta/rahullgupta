@@ -28,7 +28,7 @@
     <img
       height="25"
       src="https://cp-logo.vercel.app/codechef/rahulgupta01?logo=true"
-      onerror="this.onerror=null; this.src='https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white'"
+      onerror="this.src='https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white'"
       alt="Rahul's CodeChef"
     >
   <a href="https://codeforces.com/profile/rahulkumargupta" target="_blank">
