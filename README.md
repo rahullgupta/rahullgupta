@@ -27,15 +27,13 @@
   <a href="https://www.codechef.com/users/rahulgupta01" target="_blank">
     <img
       height="25"
-      src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"
-      onerror="this.onerror=null; this.src='https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white'"
+      src="https://cp-logo.vercel.app/codechef/rahulgupta01?logo=true"
       alt="Rahul's CodeChef"
     >
   <a href="https://codeforces.com/profile/rahulkumargupta" target="_blank">
     <img
       height="25"
       src="https://cp-logo.vercel.app/codeforces/rahulkumargupta?logo=true"
-      onerror="this.onerror=null; this.src='https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white'"
       alt="Rahul's Codeforces"
     >
   </a>
@@ -43,7 +41,6 @@
     <img
       height="25"
       src="https://cp-logo.vercel.app/leetcode/rahulgupta01?logo=true"
-      onerror="this.onerror=null; this.src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'"
       alt="Rahul's LeetCode"
     >
   </a>
