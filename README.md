@@ -34,17 +34,17 @@
   <a href="https://codeforces.com/profile/rahulkumargupta" target="_blank">
     <img
       height="25"
-      alt="Rahul's Codeforces"
       src="https://cp-logo.vercel.app/codeforces/rahulkumargupta?logo=true"
       onerror="this.onerror=null; this.src='https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white'"
+      alt="Rahul's Codeforces"
     >
   </a>
   <a href="https://leetcode.com/rahulgupta01/" target="_blank">
     <img
       height="25"
-      alt="Rahul's LeetCode"
       src="https://cp-logo.vercel.app/leetcode/rahulgupta01?logo=true"
       onerror="this.onerror=null; this.src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'"
+      alt="Rahul's LeetCode"
     >
   </a>
   <a href="mailto: rahulslg20@gmail.com" target="_blank">
