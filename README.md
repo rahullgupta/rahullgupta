@@ -25,12 +25,7 @@
     />
   </a>
   <a href="https://www.codechef.com/users/rahulgupta01">
-    <img
-      height="25"
-      alt="Rahul's Codechef"
-      src="https://cp-logo.vercel.app/codechef/rahulgupta01?logo=true"
-      onerror="this.onerror=null; this.src='https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white'"
-    />
+    <img height="25" alt="Rahul's Codechef" src="https://cp-logo.vercel.app/codechef/rahulgupta01?logo=true" onerror="this.onerror=null; this.src='https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white'" />
   </a>
   <a href="https://codeforces.com/profile/rahulkumargupta">
     <img
