@@ -17,21 +17,21 @@
 </p>
 
 <div>
-  <a href="https://www.linkedin.com/in/rahul-kumar-gupta-01/">
+  <a href="https://www.linkedin.com/in/rahul-kumar-gupta-01/" target="_blank">
     <img
       height="25"
       alt="Rahul's LinkedIn"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     >
   </a>
-  <a href="https://www.codechef.com/users/rahulgupta01">
+  <a href="https://www.codechef.com/users/rahulgupta01" target="_blank">
     <img
       height="25"
       src="https://cp-logo.vercel.app/codechef/rahulgupta01?logo=true"
       onerror="this.onerror=null; this.src='https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white'"
       alt="Rahul's CodeChef"
     >
-  <a href="https://codeforces.com/profile/rahulkumargupta">
+  <a href="https://codeforces.com/profile/rahulkumargupta" target="_blank">
     <img
       height="25"
       alt="Rahul's Codeforces"
@@ -39,20 +39,20 @@
       onerror="this.onerror=null; this.src='https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white'"
     >
   </a>
-  <a href="https://leetcode.com/rahulgupta01/">
+  <a href="https://leetcode.com/rahulgupta01/" target="_blank">
     <img
       height="25"
       alt="Rahul's LeetCode"
       src="https://cp-logo.vercel.app/leetcode/rahulgupta01?logo=true"
       onerror="this.onerror=null; this.src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'"
-    />
+    >
   </a>
-  <a href="mailto: rahulslg20@gmail.com">
+  <a href="mailto: rahulslg20@gmail.com" target="_blank">
     <img
       height="25"
       alt="Rahul's Gmail "
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    />
+    >
   </a>
 </div>
 
