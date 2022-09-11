@@ -22,7 +22,7 @@
       height="25"
       alt="Rahul's LinkedIn"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
+    >
   </a>
   <a href="https://www.codechef.com/users/rahulgupta01">
     <img
@@ -30,14 +30,14 @@
       src="https://cp-logo.vercel.app/codechef/rahulgupta01?logo=true"
       onerror="this.onerror=null; this.src='https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white'"
       alt="Rahul's CodeChef"
-    />
+    >
   <a href="https://codeforces.com/profile/rahulkumargupta">
     <img
       height="25"
       alt="Rahul's Codeforces"
       src="https://cp-logo.vercel.app/codeforces/rahulkumargupta?logo=true"
       onerror="this.onerror=null; this.src='https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white'"
-    />
+    >
   </a>
   <a href="https://leetcode.com/rahulgupta01/">
     <img
