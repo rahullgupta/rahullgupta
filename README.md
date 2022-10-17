@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
-<img align="right" img height="25" src="https://visitor-badge.glitch.me/badge?page_id=rahullgupta.visitor-badge&left_text=My%20Page%20Visitors" />
+<img align="right" img height="25" src="visitor-badge-reloaded.herokuapp.com/badge?page_id=rahullgupta.visitor.badge.reloaded" />
 
 <p>
   I'm Rahul Kumar Gupta, a 3rd year Computer Science Undergraduate at Chandigarh University. 
