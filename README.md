@@ -3,21 +3,19 @@
 <img align="right" img height="25" src="https://komarev.com/ghpvc/?username=rahullgupta&style=for-the-badge" />
 
 <p>
-  I'm Rahul Kumar Gupta, a 3rd year Computer Science Undergraduate at Chandigarh University. 
+  I'm Rahul Kumar Gupta, a B.E. Computer Science 2024 Graduate from Chandigarh University. 
   
-  I am interested in Web Development and Blockchain. 
-  
-  I also like solving problems and so I have a keen interest in competitive programming. 
+  I am interested in Web Development and solving problems and so I have a keen interest in competitive programming. 
   
   There is much to learn, many problems to brainstorm and code, many bugs to fix and many pull requests to make. Happy to connect, work and learn with all the amazing people in the world. 
   
   Skills: Python, C++, HTML/CSS/Javascript, React, MongoDB, NodeJs. 
   
-  Interests: Open Source, Blockchain, Python, Web Development.
+  Interests: Open Source, C++, Python, Web Development.
 </p>
 
 <div>
-  <a href="https://www.linkedin.com/in/rahul-kumar-gupta-01/" target="_blank">
+  <a href="https://www.linkedin.com/in/rahulkumarguptaa/" target="_blank">
     <img
       height="25"
       alt="Rahul's LinkedIn"
